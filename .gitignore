@@ -1,0 +1,7 @@
+.venv
+.idea
+data/sentiment_dataset.csv
+models
+hints_task2.ipynb
+example.ipynb
+task.md
